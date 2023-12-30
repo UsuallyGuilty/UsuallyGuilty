@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UsuallyGuilty aka Jesse.
+- 👋 Hi, I’m Jesse or Jesse_ug on discord.
 - 👀 I’m interested in UE5/Unity/Godot - art/pixels/realistic/anime - world building - writing.
 - 🌱 I’m currently learning Unity/Godot/Animation/3D/Voxel
 - 💞️ I’m looking to collaborate on game projects or artsy things.
